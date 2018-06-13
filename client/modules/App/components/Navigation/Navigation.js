@@ -1,9 +1,6 @@
 import React, { PropTypes } from "react";
 import { Link } from "react-router";
 
-// Import Style
-//import styles from "./Header.css";
-
 const Navigation = (props, context) => {
   return (
     <ul>
